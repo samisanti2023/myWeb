@@ -1,0 +1,18 @@
+#pa1 {
+    
+    outline: 2px solid #0a0a0af4; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #c3d26f;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}
+#pa2 {
+    
+    outline: 2px solid #060606; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #dfd46b;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}

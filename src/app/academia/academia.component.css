@@ -1,0 +1,36 @@
+#pa1 {
+    
+    outline: 2px solid #0a0a0af4; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #6fd28b;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}
+#pa2 {
+    
+    outline: 2px solid #060606; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #c0ebcc;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}
+#pa3 {
+    
+    outline: 2px solid #060606; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #87cfb8;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}
+#pa4 {
+    
+    outline: 2px solid #060606; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #9cecb2;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}

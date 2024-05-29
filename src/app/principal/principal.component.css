@@ -1,0 +1,51 @@
+/* welcome-sign.component.css */
+#welcome {
+    font-size: 36px;
+    font-family: 'Impact', sans-serif;
+    background: linear-gradient(to right, #007bff, #00bfff);
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: fadeIn 1s ease-in-out;
+    position: absolute; /* Puedes usar 'relative', 'fixed' o 'sticky' según tus necesidades */
+    top: 180px; /* Ajusta la distancia desde la parte superior */
+    left: 1050px; /* Ajusta la distancia desde la izquierda */
+    
+}
+#pa {
+    
+    outline: 2px solid #22c5cb; /* Cambia el color y el grosor del contorno según tus preferencias */
+    padding: 10px;
+    background-color: #82c0cb;
+    border-radius: 30px;
+    font-family: Times, sans-serif;
+     font-size: 20px;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.clock-image {
+    animation: rotateClock 5s infinite linear;
+   
+  }
+
+  @keyframes rotateClock {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  #mi_imagen {
+    position: absolute; /* Puedes usar 'relative', 'fixed' o 'sticky' según tus necesidades */
+    top: 400px; /* Ajusta la distancia desde la parte superior */
+    left: 80px; 
+  }
